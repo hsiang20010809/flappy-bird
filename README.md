@@ -1,5 +1,7 @@
 ## 嗨
 
+![遊戲截圖](./img/logo.png)
+
 這是一款用python開發的flappy bird遊戲
 
 遊戲執行請運行主程式(main.py)

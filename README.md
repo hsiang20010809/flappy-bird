@@ -1,6 +1,6 @@
-## 嗨
-
 ![遊戲截圖](./img/logo.png)
+
+## 遊戲說明
 
 這是一款用python開發的flappy bird遊戲
 
